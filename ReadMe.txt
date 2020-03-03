@@ -6,4 +6,10 @@ Update-Database
 5. After migration is successful Run the project
 
 
+- To open the project click on the .sln file 
+- There are 4 classes under Database Layer -Car, Driver, User and Booking
+- User can book any car which means user can book car and along with that car drive also comes
+
+
+
 
